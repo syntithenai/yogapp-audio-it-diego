@@ -1,0 +1,238 @@
+{
+  "id": "forgiveness-soft-10",
+  "voiceId": "it-diego",
+  "edgeVoice": "it-IT-DiegoNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 211,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 1,
+      "text": "Prenditi il tempo per arrivare.",
+      "file": "c001.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 2,
+      "text": "Siediti o sdraiati con supporto.",
+      "file": "c002.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 3,
+      "text": "Chiudi gli occhi se ti sembra sicuro.",
+      "file": "c003.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 4,
+      "text": "Senti il contatto con il suolo.",
+      "file": "c004.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 5,
+      "text": "Respira lentamente dentro.",
+      "file": "c005.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 6,
+      "text": "Respira più a lungo fuori.",
+      "file": "c006.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 7,
+      "text": "[pausa:27]",
+      "file": "c007.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 8,
+      "text": "Ancora.",
+      "file": "c008.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 9,
+      "text": "[pausa:27]",
+      "file": "c009.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 10,
+      "text": "Lascia che le spalle si abbassino.",
+      "file": "c010.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 11,
+      "text": "Lascia che l'addome si rilassi.",
+      "file": "c011.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 12,
+      "text": "[pausa:34]",
+      "file": "c012.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 13,
+      "text": "Il perdono qui significa liberare il tuo pugno chiuso.",
+      "file": "c013.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 14,
+      "text": "Non fingendo che il danno non sia stato importante.",
+      "file": "c014.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 15,
+      "text": "[pausa:34]",
+      "file": "c015.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 16,
+      "text": "Comincia con qualcosa di piccolo che tieni contro te stesso.",
+      "file": "c016.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 17,
+      "text": "Un errore. Una carenza.",
+      "file": "c017.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 18,
+      "text": "[pausa:34]",
+      "file": "c018.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 19,
+      "text": "Silenziosamente: Perdono me stesso per essere umano.",
+      "file": "c019.ogg",
+      "durationSec": 7.8
+    },
+    {
+      "index": 20,
+      "text": "Lascio andare ciò che non devo più portare.",
+      "file": "c020.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 21,
+      "text": "[pausa:54]",
+      "file": "c021.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 22,
+      "text": "Se ti senti di poterlo fare, richiamare un'esperienza leggermente difficile con un altro.",
+      "file": "c022.ogg",
+      "durationSec": 10.728
+    },
+    {
+      "index": 23,
+      "text": "Non la storia più dura. Una più lieve.",
+      "file": "c023.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 24,
+      "text": "[pausa:34]",
+      "file": "c024.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 25,
+      "text": "Lascio andare ciò che posso.",
+      "file": "c025.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 26,
+      "text": "Mantengo i miei confini. Rimuovo il peso in eccesso.",
+      "file": "c026.ogg",
+      "durationSec": 8.808
+    },
+    {
+      "index": 27,
+      "text": "[pausa:54]",
+      "file": "c027.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 28,
+      "text": "Respira nei punti che erano contratti.",
+      "file": "c028.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 29,
+      "text": "[pausa:68]",
+      "file": "c029.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 30,
+      "text": "Riposa nello spazio che si apre quando il pugno si ammorbidisce.",
+      "file": "c030.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 31,
+      "text": "[pausa:81]",
+      "file": "c031.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 32,
+      "text": "[pausa:41]",
+      "file": "c032.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 33,
+      "text": "Inizia a profondire il respiro.",
+      "file": "c033.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 34,
+      "text": "Riconosci di nuovo la stanza.",
+      "file": "c034.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 35,
+      "text": "Muovi le dita e i piedi.",
+      "file": "c035.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 36,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c036.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 37,
+      "text": "Muoviti lentamente verso ciò che viene dopo.",
+      "file": "c037.ogg",
+      "durationSec": 6.144
+    }
+  ]
+}

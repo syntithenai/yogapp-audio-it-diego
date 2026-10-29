@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "it-diego.zip", "bytes": 66743569, "sha256": "93432a17a3603690b869c45a252e2ab395fa796ec560793008cfca30322584a6"}
+  ]
+}

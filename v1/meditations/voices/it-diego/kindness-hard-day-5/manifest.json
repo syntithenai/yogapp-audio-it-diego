@@ -1,0 +1,172 @@
+{
+  "id": "kindness-hard-day-5",
+  "voiceId": "it-diego",
+  "edgeVoice": "it-IT-DiegoNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 136,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 1,
+      "text": "Trova una posizione comoda, o sdraiati se ti sembra meglio.",
+      "file": "c001.ogg",
+      "durationSec": 8.28
+    },
+    {
+      "index": 2,
+      "text": "Lascia riposare le mani.",
+      "file": "c002.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 3,
+      "text": "Rilassa gli occhi, o chiudili.",
+      "file": "c003.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 4,
+      "text": "Fai un respiro lento e profondo.",
+      "file": "c004.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 5,
+      "text": "E un respiro più lungo in uscita.",
+      "file": "c005.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 6,
+      "text": "Non devi fingere che sia stato facile.",
+      "file": "c006.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 7,
+      "text": "Permetti alla verità della stanchezza di essere presente.",
+      "file": "c007.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 8,
+      "text": "[pausa:31]",
+      "file": "c008.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 9,
+      "text": "Inspira cura.",
+      "file": "c009.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 10,
+      "text": "Espira il bisogno di stare bene.",
+      "file": "c010.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 11,
+      "text": "[pausa:31]",
+      "file": "c011.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 12,
+      "text": "Che io possa essere gentile con me stesso stasera.",
+      "file": "c012.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 13,
+      "text": "Che io possa riposare come sono.",
+      "file": "c013.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 14,
+      "text": "[pausa:31]",
+      "file": "c014.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 15,
+      "text": "Che domani chieda solo ciò che posso dare.",
+      "file": "c015.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 16,
+      "text": "[pausa:31]",
+      "file": "c016.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 17,
+      "text": "Senti il corpo sostenuto.",
+      "file": "c017.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 18,
+      "text": "Niente di più richiesto in questo momento.",
+      "file": "c018.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 19,
+      "text": "[pausa:45]",
+      "file": "c019.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 20,
+      "text": "Mano sul cuore, se ti aiuta.",
+      "file": "c020.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 21,
+      "text": "Ce l'hai fatta.",
+      "file": "c021.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 22,
+      "text": "[pausa:38]",
+      "file": "c022.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 23,
+      "text": "Fai un altro respiro facile.",
+      "file": "c023.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 24,
+      "text": "Muovi le dita.",
+      "file": "c024.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 25,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c025.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 26,
+      "text": "Porta con te un po' di questo.",
+      "file": "c026.ogg",
+      "durationSec": 4.776
+    }
+  ]
+}

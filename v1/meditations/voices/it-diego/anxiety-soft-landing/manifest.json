@@ -1,0 +1,154 @@
+{
+  "id": "anxiety-soft-landing",
+  "voiceId": "it-diego",
+  "edgeVoice": "it-IT-DiegoNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 157,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Se ti senti attivato o preoccupato, sei il benvenuto qui.",
+      "file": "c000.ogg",
+      "durationSec": 7.8
+    },
+    {
+      "index": 1,
+      "text": "Non devi sentirti ancora calmo.",
+      "file": "c001.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 2,
+      "text": "Segui semplicemente.",
+      "file": "c002.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 3,
+      "text": "Pianta entrambi i piedi sul pavimento, se puoi.",
+      "file": "c003.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 4,
+      "text": "Senti il contatto. Caviglie. Piante dei piedi. Dita.",
+      "file": "c004.ogg",
+      "durationSec": 12.72
+    },
+    {
+      "index": 5,
+      "text": "Premi delicatamente. Nota la spinta del suolo.",
+      "file": "c005.ogg",
+      "durationSec": 8.4
+    },
+    {
+      "index": 6,
+      "text": "Nomina cinque cose che puoi vedere.",
+      "file": "c006.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 7,
+      "text": "In silenzio. Senza fretta.",
+      "file": "c007.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 8,
+      "text": "Nomina quattro cose che puoi toccare.",
+      "file": "c008.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 9,
+      "text": "Abbigliamento. Sedia. Aria sulla pelle.",
+      "file": "c009.ogg",
+      "durationSec": 9.696
+    },
+    {
+      "index": 10,
+      "text": "Nomina tre suoni, vicini o lontani.",
+      "file": "c010.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 11,
+      "text": "Nomina due profumi, o semplicemente nota l'aria.",
+      "file": "c011.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 12,
+      "text": "Nomina un sapore, o la sensazione in bocca.",
+      "file": "c012.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 13,
+      "text": "Sei qui. In questo corpo. In questa stanza.",
+      "file": "c013.ogg",
+      "durationSec": 9.912
+    },
+    {
+      "index": 14,
+      "text": "Ora inspira per quattro.",
+      "file": "c014.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 15,
+      "text": "Mantieni delicatamente per due.",
+      "file": "c015.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 16,
+      "text": "Fuori per sei.",
+      "file": "c016.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 17,
+      "text": "Ancora se vuoi.",
+      "file": "c017.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 18,
+      "text": "Posiziona una mano sul petto o sull'addome.",
+      "file": "c018.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 19,
+      "text": "Senti il movimento sotto la mano.",
+      "file": "c019.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 20,
+      "text": "L'ansia potrebbe essere ancora presente. È permesso.",
+      "file": "c020.ogg",
+      "durationSec": 8.688
+    },
+    {
+      "index": 21,
+      "text": "Hai dato al sistema nervoso un atterraggio più morbido.",
+      "file": "c021.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 22,
+      "text": "Fai un altro respiro.",
+      "file": "c022.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 23,
+      "text": "Quando sei pronto, apri gli occhi e continua la tua giornata.",
+      "file": "c023.ogg",
+      "durationSec": 7.944
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "sleep-gate-5",
+  "voiceId": "it-diego",
+  "edgeVoice": "it-IT-DiegoNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 114,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Questa pratica è per il confine del sonno.",
+      "file": "c000.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 1,
+      "text": "Abbassa le luci. Stai sdraiato.",
+      "file": "c001.ogg",
+      "durationSec": 7.656
+    },
+    {
+      "index": 2,
+      "text": "Non c'è nulla da finire in questo momento.",
+      "file": "c002.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 3,
+      "text": "[pausa:24]",
+      "file": "c003.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 4,
+      "text": "Inspira dolcemente.",
+      "file": "c004.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 5,
+      "text": "Espira più a lungo.",
+      "file": "c005.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 6,
+      "text": "[pausa:24]",
+      "file": "c006.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 7,
+      "text": "Rilassa la fronte.",
+      "file": "c007.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 8,
+      "text": "Rilassa gli occhi.",
+      "file": "c008.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 9,
+      "text": "Rilassa la mascella.",
+      "file": "c009.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 10,
+      "text": "[pausa:29]",
+      "file": "c010.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 11,
+      "text": "Braccia pesanti. Gambe pesanti.",
+      "file": "c011.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 12,
+      "text": "[pausa:29]",
+      "file": "c012.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 13,
+      "text": "Se i pensieri arrivano, lasciali passare come auto di notte.",
+      "file": "c013.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 14,
+      "text": "Rimani con il respiro.",
+      "file": "c014.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 15,
+      "text": "[pausa:45]",
+      "file": "c015.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 16,
+      "text": "Corpo che affonda.",
+      "file": "c016.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 17,
+      "text": "Respiro tranquillo.",
+      "file": "c017.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 18,
+      "text": "[pausa:45]",
+      "file": "c018.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 19,
+      "text": "Se arriva il sonno, lascialo venire.",
+      "file": "c019.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 20,
+      "text": "Se no, riposa comunque.",
+      "file": "c020.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 21,
+      "text": "[pausa:35]",
+      "file": "c021.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 22,
+      "text": "Buonanotte al giorno.",
+      "file": "c022.ogg",
+      "durationSec": 3.936
+    }
+  ]
+}

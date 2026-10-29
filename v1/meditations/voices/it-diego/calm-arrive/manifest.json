@@ -1,0 +1,136 @@
+{
+  "id": "calm-arrive",
+  "voiceId": "it-diego",
+  "edgeVoice": "it-IT-DiegoNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 116,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 1,
+      "text": "Prenditi un momento per arrivare.",
+      "file": "c001.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 2,
+      "text": "Trova una posizione comoda, o sdraiati se ti sembra meglio.",
+      "file": "c002.ogg",
+      "durationSec": 8.28
+    },
+    {
+      "index": 3,
+      "text": "Lascia riposare le mani.",
+      "file": "c003.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 4,
+      "text": "Permetti agli occhi di chiudersi, o ammorbidisci lo sguardo.",
+      "file": "c004.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 5,
+      "text": "Notare che sei qui.",
+      "file": "c005.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 6,
+      "text": "Niente da sistemare in questo momento.",
+      "file": "c006.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 7,
+      "text": "Niente da completare.",
+      "file": "c007.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 8,
+      "text": "Fai un respiro lento attraverso il naso.",
+      "file": "c008.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 9,
+      "text": "E un respiro più lungo fuori.",
+      "file": "c009.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 10,
+      "text": "Ancora. Inhala delicatamente.",
+      "file": "c010.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 11,
+      "text": "Esala dolcemente.",
+      "file": "c011.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 12,
+      "text": "Senti il peso del tuo corpo sostenuto.",
+      "file": "c012.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 13,
+      "text": "Il pavimento, la sedia, la terra che ti sostengono.",
+      "file": "c013.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 14,
+      "text": "Se i pensieri vagano, va bene.",
+      "file": "c014.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 15,
+      "text": "Basta notare, e tornare a questo respiro.",
+      "file": "c015.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 16,
+      "text": "Inhala. Arriva.",
+      "file": "c016.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 17,
+      "text": "Esala. Rilassati.",
+      "file": "c017.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 18,
+      "text": "Un'ultima respirazione facile.",
+      "file": "c018.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 19,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c019.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 20,
+      "text": "Porta con te questa quiete.",
+      "file": "c020.ogg",
+      "durationSec": 4.416
+    }
+  ]
+}

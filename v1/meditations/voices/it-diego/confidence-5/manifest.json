@@ -1,0 +1,190 @@
+{
+  "id": "confidence-5",
+  "voiceId": "it-diego",
+  "edgeVoice": "it-IT-DiegoNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 163,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Benvenuto.",
+      "file": "c000.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 1,
+      "text": "Trova una posizione comoda, o sdraiati se ti sembra meglio.",
+      "file": "c001.ogg",
+      "durationSec": 8.28
+    },
+    {
+      "index": 2,
+      "text": "Lascia riposare le mani.",
+      "file": "c002.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 3,
+      "text": "Ammorbidisci gli occhi, o chiudili.",
+      "file": "c003.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 4,
+      "text": "Fai un respiro lento dentro.",
+      "file": "c004.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 5,
+      "text": "E un respiro più lungo fuori.",
+      "file": "c005.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 6,
+      "text": "Senti i tubercoli ischiatici, o i piedi.",
+      "file": "c006.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 7,
+      "text": "Una base stabile sotto di te.",
+      "file": "c007.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 8,
+      "text": "[pausa:22]",
+      "file": "c008.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 9,
+      "text": "Allunga la colonna senza irrigidirti.",
+      "file": "c009.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 10,
+      "text": "Viso morbido. Pancia morbida. Centro forte.",
+      "file": "c010.ogg",
+      "durationSec": 9.984
+    },
+    {
+      "index": 11,
+      "text": "[pausa:22]",
+      "file": "c011.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 12,
+      "text": "Prova silenziosamente queste frasi, o ascolta semplicemente.",
+      "file": "c012.ogg",
+      "durationSec": 8.208
+    },
+    {
+      "index": 13,
+      "text": "Posso affrontare ciò che devo affrontare.",
+      "file": "c013.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 14,
+      "text": "[pausa:22]",
+      "file": "c014.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 15,
+      "text": "Non ho bisogno di affrettare il mio diventare.",
+      "file": "c015.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 16,
+      "text": "[pausa:22]",
+      "file": "c016.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 17,
+      "text": "Faccio affidamento sul mio prossimo passo onesto.",
+      "file": "c017.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 18,
+      "text": "[pausa:28]",
+      "file": "c018.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 19,
+      "text": "Respira la fiducia come calore nel petto, non come armatura.",
+      "file": "c019.ogg",
+      "durationSec": 8.088
+    },
+    {
+      "index": 20,
+      "text": "[pausa:28]",
+      "file": "c020.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 21,
+      "text": "Vedi te stesso affrontare una sfida ordinaria con fermezza.",
+      "file": "c021.ogg",
+      "durationSec": 7.632
+    },
+    {
+      "index": 22,
+      "text": "[pausa:33]",
+      "file": "c022.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 23,
+      "text": "Torna al respiro.",
+      "file": "c023.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 24,
+      "text": "Fermo. Basta.",
+      "file": "c024.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 25,
+      "text": "[pausa:28]",
+      "file": "c025.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 26,
+      "text": "Prendi un altro respiro facile.",
+      "file": "c026.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 27,
+      "text": "Muovi le dita.",
+      "file": "c027.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 28,
+      "text": "Quando sei pronto, apri gli occhi.",
+      "file": "c028.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 29,
+      "text": "Porta un po' di questo con te.",
+      "file": "c029.ogg",
+      "durationSec": 4.68
+    }
+  ]
+}
